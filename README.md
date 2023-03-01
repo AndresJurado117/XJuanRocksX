@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XJuanRocksX
+- 👋 Hi, I’m Andres
 - 👀 I’m interested in full-stack web developement and machine learning.
 - 🌱 I’m currently learning HTML, CSS and JavaScript, Python, Flask and C. Starting date 9/13/2022.
 - 💞️ I’m looking to collaborate on ...
